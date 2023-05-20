@@ -1,0 +1,3 @@
+[submodule "Driver-Anomaly-Detection"]
+	path = Driver-Anomaly-Detection
+	url = https://github.com/hungvm2/Driver-Anomaly-Detection.git
